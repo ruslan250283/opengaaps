@@ -2,7 +2,7 @@
 <manifest>
 
 <remote name="opengapps" fetch="https://github.com/opengapps/"  />
-<remote name="opengapps-gitlab" fetch="https://gitlab.opengapps.org/opengapps/"  />
+<remote name="opengapps-gitlab" fetch="git@gitlab.opengapps.org:opengapps"  />
 
 <project path="vendor/opengapps/build" name="aosp_build" revision="master" remote="opengapps" />
 
